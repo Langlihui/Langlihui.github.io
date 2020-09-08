@@ -1,4 +1,4 @@
-[!image](/Langlihui.jpg)
+![img](/Langlihui.jpg)
 ### Personal Information
 #### Lihui Lang(稂丽辉)
 #### A Senior Student in [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/)
