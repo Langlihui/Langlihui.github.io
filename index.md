@@ -1,6 +1,21 @@
 ### Personal Information
 #### Lihui Lang(稂丽辉)
 #### A Senior Student in College of Computer Science and Electronic Engineering, Hunan University
+#### Email: langlihui@hnu.edu.cn
+#### Address: Hunan University, Yuelu District, Changsha, Hunan, China(410082)
+
+### Research Direction
+---
+
+### Awards
+---
+
+### Others
+---
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Langlihui/Langlihui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
