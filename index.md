@@ -1,5 +1,5 @@
 <center>
-    <img src="/Langlihui.jpg" height="100" width="100"/>
+    <img src="/Langlihui.jpg" style="zoom:50%;"/>
 </center>
 ### Personal Information
 #### Lihui Lang(稂丽辉)
