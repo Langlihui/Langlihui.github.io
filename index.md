@@ -1,4 +1,3 @@
-<table border="0">
   <tr>
     <td width="75%">
       <h1>Lihui Lang(稂丽辉)</h1>
@@ -8,10 +7,10 @@
       <p><b>Address: Hunan University, Yuelu District, Changsha, Hunan, China(410082)</b></p>
     </td>
     <td width="25%">
-      <img src="/Langlihui.jpg" width="100%">      % 插入证件照代码
+      <img src="/Langlihui.jpg" width="100%">      
     </td>
   </tr>
-</table>
+
 
 ### Personal Information
 #### Lihui Lang(稂丽辉)
