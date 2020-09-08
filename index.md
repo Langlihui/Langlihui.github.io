@@ -2,7 +2,7 @@
 ### Personal Information
 #### Lihui Lang(稂丽辉)
 #### A Senior Student in College of Computer Science and Electronic Engineering, Hunan University
-#### Email: langlihui@hnu.edu.cn
+#### Email: [langlihui@hnu.edu.cn](http://www.hnu.edu.cn/)
 #### Address: Hunan University, Yuelu District, Changsha, Hunan, China(410082)
 
 ### Research Direction
